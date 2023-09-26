@@ -7,7 +7,7 @@
 
 ## Architecture
 
-![Architecture Diagram](https://cdn-images-1.medium.com/max/800/1*T5IRoSoiqT8qnYLUprsRUQ.png)
+![Architecture Diagram](https://imgbox.com/kjhY0Myn)
 
 
 ## Synopsis
